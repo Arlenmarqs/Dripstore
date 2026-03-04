@@ -6,9 +6,9 @@ function App() {
 
   return (
     <>
-    <Header></Header>
-    <Colections></Colections>
-    <Footer></Footer>
+      <Header></Header>
+      <Colections></Colections>
+      <Footer></Footer>
     </>
   )
 }
